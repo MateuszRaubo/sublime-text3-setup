@@ -112,11 +112,21 @@
 		"node_modules/**"
 	],
 	"color_scheme": "Packages/Nord/Nord.sublime-color-scheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
 	"font_face": "Cascadia Code",
-	"font_size": 12,
+	"font_size": 13.5,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Adaptive.sublime-theme"
+	"remember_full_screen": true,
+	"theme": "Adaptive.sublime-theme",
+	"ui_scale": 0.85
 }

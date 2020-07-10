@@ -6,21 +6,29 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Color Highlight",
+		"ColorPicker",
 		"DotENV",
 		"EditorConfig",
 		"EJS 2",
 		"Emmet",
-		"ESLint",
-		"Formatter",
 		"GitGutter",
+		"Laravel Blade Highlighter",
 		"LSP",
+		"LSP-intelephense",
+		"LSP-typescript",
 		"LSP-vue",
+		"MarkdownLivePreview",
 		"Nord",
-		"OmniMarkupPreviewer",
 		"Package Control",
+		"Sass",
 		"SideBarEnhancements",
 		"Smarty",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-php",
 		"Terminal",
-		"Vuejs Complete Package"
+		"TodoReview",
+		"Vue Syntax Highlight"
 	]
 }
