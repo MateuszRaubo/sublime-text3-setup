@@ -29,6 +29,7 @@
 		"SublimeLinter-php",
 		"Terminal",
 		"TodoReview",
-		"Vue Syntax Highlight"
+		"Vue Syntax Highlight",
+		"Vuejs Snippets Airbnb"
 	]
 }
