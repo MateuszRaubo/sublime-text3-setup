@@ -109,7 +109,8 @@
 		"*.xlsx",
 		"*.xlt",
 		"*.zip",
-		"node_modules/**"
+		"node_modules/**",
+		"cache/**"
 	],
 	"color_scheme": "Packages/Nord/Nord.sublime-color-scheme",
 	"folder_exclude_patterns":
