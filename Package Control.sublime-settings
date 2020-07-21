@@ -12,6 +12,7 @@
 		"EditorConfig",
 		"EJS 2",
 		"Emmet",
+		"ESLint-Formatter",
 		"GitGutter",
 		"Laravel Blade Highlighter",
 		"LSP",
