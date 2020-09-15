@@ -1,4 +1,22 @@
 {
 	"telemetry": false,
-	"uid": "d987c142-94a5-4589-ac1d-e7c85a25840a"
+	"uid": "d987c142-94a5-4589-ac1d-e7c85a25840a",
+	"syntax_scopes": {
+		"html": "text.html - source - meta.attribute-with-value.style",
+		"xml": "text.xml - text.xml.xsl",
+		"xsl": "text.xml.xsl",
+		"jsx": "source.js.jsx | source.tsx | source.js | source.jsx",
+		"haml": "source.haml",
+		"jade": "text.jade | source.pyjade",
+		"pug": "text.pug | source.pypug",
+		"slim": "text.slim",
+		"vue": "text.vue",
+
+		"css": "source.css | source.postcss | meta.attribute-with-value.style.html string.quoted",
+		"sass": "source.sass",
+		"scss": "source.scss",
+		"less": "source.less",
+		"stylus": "source.stylus",
+		"sss": "source.sss"
+	},
 }

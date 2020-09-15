@@ -113,7 +113,8 @@
 		"cache/**",
 		"dist/**"
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"detect_indentation": "false",
 	"folder_exclude_patterns":
 	[
 		".svn",
